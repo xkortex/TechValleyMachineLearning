@@ -41,7 +41,7 @@ The Tensorflow install instructions used to call for pointed to a specific TF_BI
 ipython
 ```
 
-```ipython
+```python
 In [1]: import tensorflow
 
 I tensorflow/stream_executor/dso_loader.cc:135] successfully opened CUDA library libcublas.so.8.0 locally
