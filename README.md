@@ -11,7 +11,7 @@ This meetup is for people interested in learning about the hottest topics in mac
 -- Societal impacts of AI  
 
 ## Talk 1: Natural Language Processing
-<br>
-[https://github.com/xkortex/TechValleyMachineLearning/blob/master/Part1_NLP_Preprocessing.ipynb](Part 1: Preprocessing for NLP)
-<br>
-[https://github.com/xkortex/TechValleyMachineLearning/blob/master/Part2_TVMLAI_CNN_LSTM.ipynb](Part 2: Deep Learning Sentiment Analysis in Keras)
+
+[Part 1: Preprocessing for NLP](https://github.com/xkortex/TechValleyMachineLearning/blob/master/Part1_NLP_Preprocessing.ipynb)
+
+[Part 1: Preprocessing for NLP](https://github.com/xkortex/TechValleyMachineLearning/blob/master/Part2_TVMLAI_CNN_LSTM.ipynb)
